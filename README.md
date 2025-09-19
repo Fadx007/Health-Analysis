@@ -1,6 +1,12 @@
 # WATER POLLUTION AND DISEASE
 ## Introduction
 Water quality is a critical determinant of public health, particularly in regions where access to clean drinking water is limited. Contamination of water sources by chemical, biological, and physical pollutants can lead to increased disease incidence, reduced quality of life, and negative socioeconomic impacts. This report presents a comprehensive analysis of water pollution and disease data, exploring trends, correlations, and potential causes across different countries and regions. The goal is to identify key environmental and socioeconomic factors that influence waterborne disease prevalence, with a focus on diarrheal diseases, cholera, and typhoid.
+
+## Table of Contents
+- [Introduction](#Introduction)
+- [Problem questions](#Problem-questions)
+- [Insights](#Insights)
+- [Recommendations](Recommendations)
 ## Problem questions
 1.	What is the average contaminant level (ppm) per country/year?
 2.	What is the median pH, turbidity, nitrate, and lead concentration across all samples?

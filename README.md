@@ -24,6 +24,7 @@ Water quality is a critical determinant of public health, particularly in region
 5.	Mexico has the highest average cases for Diarrhea with 260.17 cases per 100,000 people and USA with the least average cases for Diarrhea at 239.97 cases per 100,000 people. China has the highest average cases for Cholera with 25.03 cases per 100,000 people and Brazil with the least average cases of Cholera at 22.56 cases per 100,000 people . Brazil has the highest average cases for Typhoid Fever with 53.36 cases per 100,000 people and India with the least average cases for Typhoid Fever at 46.82 cases per 100,000 people.
 6.	Turbidity is mostly used to measure the degree of cleanliness or dirtiness of water. Nigeria has the average most clean water at 2.41 NTU (Nephelometric Turbidity Unit) and Pakistan has the average least clean water with 2.60 NTU (Nephelometric Turbidity Unit)
 7.	Nigeria has the highest disease incidence cases with a total of 100,464 disease cases across Diarrhea, Cholera and Typhoid Fever and Bangladesh and Ethiopia has the lowest disease incidence cases with a total of 94,349 disease cases across Diarrhea, Cholera and Typhoid Fever.
+![Dashboard](https://github.com/Fadx007/Health-Analysis/blob/main/Screenshot%202025-09-19%20154059.png)
 
 ## Recommendations
 1.	Tap water should be used as the major form of drinking water so as to prevent predisposition to water borne diseases like Cholera, Diarrhea and Typhoid Fever.

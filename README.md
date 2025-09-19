@@ -6,7 +6,7 @@ Water quality is a critical determinant of public health, particularly in region
 - [Introduction](#Introduction)
 - [Problem questions](#Problem-questions)
 - [Insights](#Insights)
-- [Recommendations](Recommendations)
+- [Recommendations](#Recommendations)
 ## Problem questions
 1.	What is the average contaminant level (ppm) per country/year?
 2.	What is the median pH, turbidity, nitrate, and lead concentration across all samples?
